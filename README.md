@@ -22,6 +22,5 @@
 * jfernandezlosada-PRAC01-Tipologia.pdf Solución de la practica propuesta.
 * whois.txt Resultado de whois(bolsamadrid.es) desde pyhton
 * request.html Resultado del comando request desde python
-* precios.html codigo fuente de la web a la que hacemos el scrapping
 * sitemap.xml Estructura de la web [www.bolsamadrid.es](www.bolsamadrid.es) analizada desde [https://www.xml-sitemaps.com/](https://www.xml-sitemaps.com/)
 
