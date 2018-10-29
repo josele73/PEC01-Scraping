@@ -19,7 +19,7 @@
 * cotizacionIBEX.csv  Fichero con el csv con el resultado del scraping. Incluye cabecera y delimitador ";"
 
 ### /docs
-* jfernandezlosada-PRAC01-Tipologia.pdf Solución de la prtactica propuesta.
+* jfernandezlosada-PRAC01-Tipologia.pdf Solución de la practica propuesta.
 * whois.txt Resultado de whois(bolsamadrid.es) desde pyhton
 * request.html Resultado del comando request desde python
 * precios.html codigo fuente de la web a la que hacemos el scrapping
