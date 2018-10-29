@@ -1,5 +1,7 @@
 # Practica01  Tipologia - Web Scraping
 
+***
+
 ## Alumno
    **Alumno**: José Luis Fernández Losada
 
@@ -9,7 +11,6 @@
 
 ## Carpetas y ficheros
 
-***
 
 ### /src
 * bolsamadrid.py  Fichero con el codigo fuente en python
